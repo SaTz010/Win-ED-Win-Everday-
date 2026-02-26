@@ -1,0 +1,44 @@
+Win-ED (Win Everyday)
+Simple & Clear App Structure (KISS Version)
+
+1.Authentication
+-Login / Sign Up
+-Email + Password login
+-Simple signup
+
+2. Home Page (Core Feature)
+Purpose:
+-Main working screen.
+-Add daily task
+-Mark task as completed
+-Delete task
+-See today's tasks only
+-Show today’s completion percentage
+
+3.Progress Page
+
+-Show user progress visually.
+-Keep It Simple:
+-Show weekly completion graph
+-Show monthly completion graph
+
+Filter: Week / Month only
+
+Graph should show:
+
+X-axis → Date
+Y-axis → Tasks completed
+
+
+4.Profile Page
+
+-View name
+-Update name
+-Update email
+-Change password (optional)
+
+5.Settings Page
+
+-Dark / Light mode toggle
+-App version info
+-Notification ON/OFF toggle
