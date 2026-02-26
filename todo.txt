@@ -1,44 +1,100 @@
-Win-ED (Win Everyday)
-Simple & Clear App Structure (KISS Version)
+# 🎯 Win-ED (Win Everyday)
 
-1.Authentication
--Login / Sign Up
--Email + Password login
--Simple signup
+> Simple Productivity App – Focused on Daily Wins  
+> Built with a KISS (Keep It Simple, Smart) approach.
 
-2. Home Page (Core Feature)
-Purpose:
--Main working screen.
--Add daily task
--Mark task as completed
--Delete task
--See today's tasks only
--Show today’s completion percentage
+---
 
-3.Progress Page
+# ✅ Project TODO Structure
 
--Show user progress visually.
--Keep It Simple:
--Show weekly completion graph
--Show monthly completion graph
+---
 
-Filter: Week / Month only
+## 🔐 1. Authentication
 
-Graph should show:
+### 📝 Features
+- [ ] Login (Email + Password)
+- [ ] Sign Up (Simple registration)
+- [ ] Basic input validation
+- [ ] Error handling (wrong password, invalid email)
 
-X-axis → Date
-Y-axis → Tasks completed
+---
 
+## 🏠 2. Home Page (Core Feature)
 
-4.Profile Page
+### 🎯 Purpose
+Main working screen of the app.
 
--View name
--Update name
--Update email
--Change password (optional)
+### 📝 Task Management
+- [ ] Add daily task
+- [ ] Mark task as completed
+- [ ] Delete task
+- [ ] Show **today’s tasks only**
+- [ ] Display today's completion percentage
 
-5.Settings Page
+### 📊 Completion Formula
 
--Dark / Light mode toggle
--App version info
--Notification ON/OFF toggle
+---
+
+## 📈 3. Progress Page
+
+### 🎯 Purpose
+Show user productivity visually.
+
+### 📊 Graphs Required
+- [ ] Weekly Completion Graph
+- [ ] Monthly Completion Graph
+
+### 🎛 Filters
+- [ ] Week
+- [ ] Month
+
+### 📉 Graph Structure
+- X-Axis → Date  
+- Y-Axis → Number of Tasks Completed  
+
+(Simple bar or line graph)
+
+---
+
+## 👤 4. Profile Page
+
+### 📝 User Info
+- [ ] View name
+- [ ] Update name
+- [ ] Update email
+- [ ] Change password (optional)
+
+---
+
+## ⚙️ 5. Settings Page
+
+### 🎨 Appearance
+- [ ] Dark Mode toggle
+- [ ] Light Mode toggle
+
+### 🔔 Notifications
+- [ ] Enable notifications
+- [ ] Disable notifications
+
+### ℹ️ App Info
+- [ ] Show app version
+
+---
+
+# 🚀 Future Enhancements (Optional – Later)
+
+- [ ] Streak tracking
+- [ ] Motivational quotes
+- [ ] Cloud sync
+- [ ] Backup & Restore
+
+---
+
+# 💡 Core Philosophy
+
+✔ Simple UI  
+✔ Daily focus  
+✔ Clear progress  
+✔ No unnecessary complexity  
+
+**Win small. Win daily. Win-Everyday.**
