@@ -1,4 +1,4 @@
-package com.example.winedwineveryday_ahabitbuilder
+package com.example.wined
 
 import org.junit.Test
 
